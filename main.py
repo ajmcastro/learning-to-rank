@@ -28,5 +28,14 @@ train(model, train_docs, train_labels)
 test_loss, test_acc = evaluate(model, test_docs, test_labels)
 print(f"Test loss: {test_loss:.4f}, Test accuracy: {test_acc:.4f}")
 
+# Alternative way using train and evaluation in utils.y
+      # Load the dataset
+      # X, y = load_dataset()
+
+      # Train and evaluate a model
+      # accuracy = train_and_evaluate(model, X, y)
+      # print("Accuracy:", accuracy)
+
+      
 # Save the trained RankNet model
 model.save("ranknet.h5")
