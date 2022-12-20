@@ -9,9 +9,9 @@ https://towardsdatascience.com/evaluate-your-recommendation-engine-using-ndcg-75
 https://towardsdatascience.com/learning-to-rank-a-complete-guide-to-ranking-using-machine-learning-4c9688d370d4 
 
 # Links to example datasets for learning to rank
-https://www.microsoft.com/en-us/research/project/mslr/
-
 http://arogozhnikov.github.io/2015/06/26/learning-to-rank-software-datasets.html
+
+https://www.microsoft.com/en-us/research/project/mslr/
 
 https://www.kaggle.com/competitions/learning-to-rank-2019 
 
